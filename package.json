@@ -33,6 +33,7 @@
     "deploy": "gh-pages -d build"
   },
   "homepage": "https://nameaccount.github.io/namerepository",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
