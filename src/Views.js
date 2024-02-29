@@ -6,8 +6,8 @@ import Main from "./Pages/Main/Main";
 const Views = () => {
   return (
     <Routes>
-      <Route path="/" element={<Wrapper />}>
-        <Route index element={<Main/>}/>
+      <Route path="/test-/" element={<Wrapper />}>
+        <Route index element={<Main />} />
       </Route>
     </Routes>
   );
