@@ -32,7 +32,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://nameaccount.github.io/namerepository",
+  "homepage": "https://9beka.github.io/test-/",
   "eslintConfig": {
     "extends": [
       "react-app",
